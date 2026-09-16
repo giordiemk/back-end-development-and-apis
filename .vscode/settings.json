@@ -15,9 +15,9 @@
     "package.json": true,
     "README.md": true,
     "build-a-timestamp-microservice": true,
-    "build-a-web-server": false,
+    "build-a-web-server": true,
     "learn-nodejs-repl": true,
-    "build-a-case-converter": true,
+    "build-a-case-converter": false,
     "build-a-prime-number-checker-module": true,
     "build-a-file-processor": true,
     "build-a-family-movie-watchlist-api": true,
@@ -42,7 +42,7 @@
       "open": true,
       "showLoader": true,
       "timeout": 4000,
-      "url": "https://cautious-train-x5wjpq6r5v652vv7q-8080.app.github.dev"
+      "url": "https://friendly-fiesta-g4qgrw9x4q64cvx7-8080.app.github.dev"
     }
   ],
   "terminal.integrated.defaultProfile.linux": "bash",
